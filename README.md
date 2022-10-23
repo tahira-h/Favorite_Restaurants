@@ -3,7 +3,10 @@ We are going to create a simple page that displays your 5 favorite restaurants i
 
 ### Instructions
 
-1) Find some tags using the reference above to style some of the text on the page. This will help you get familiar with reading documentation. Learning on your own is a big part of being a successful developer.
+Reference for challenge
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b
+
+1) Find some tags using the reference above to style some of the text on the page.
 
 2) Make one of your favorite places to eat your own kitchen. Create another HTML page for your kitchen (e.g. my_kitchen.html). Make sure you link to your new page from the main page. Also make sure you can get back to your main page from your new page. This page should NOT open in a new window.
 
